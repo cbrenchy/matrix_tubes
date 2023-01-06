@@ -1,0 +1,208 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	filename	ATTRIBUTE_storagebuffer	ATTRIBUTE_extraction_protocol	ATTRIBUTE_type	ATTRIBUTE_GNPSDefaultGroup
+P4_A1.mzML	GATACA	GATACA	P4_A1.mzML	etoh	Matrix	skin	G1
+P4_A10.mzML 	GATACA	GATACA	P4_A10.mzML 	etoh	Matrix	surface	Not Mapped
+P4_A11.mzML 	GATACA	GATACA	P4_A11.mzML 	etoh	Matrix	surface	Not Mapped
+P4_A12.mzML 	GATACA	GATACA	P4_A12.mzML 	etoh	Matrix	surface	Not Mapped
+P4_A2.mzML	GATACA	GATACA	P4_A2.mzML	etoh	Matrix	skin	G1
+P4_A3.mzML	GATACA	GATACA	P4_A3.mzML	not applicable	not applicable	Blank	G1
+P4_A4.mzML 	GATACA	GATACA	P4_A4.mzML 	etoh	Matrix	skin	Not Mapped
+P4_A5.mzML 	GATACA	GATACA	P4_A5.mzML 	etoh	Matrix	skin	Not Mapped
+P4_A6.mzML	GATACA	GATACA	P4_A6.mzML	not applicable	not applicable	Blank	G1
+P4_A7.mzML 	GATACA	GATACA	P4_A7.mzML 	etoh	Matrix	skin	Not Mapped
+P4_A8.mzML 	GATACA	GATACA	P4_A8.mzML 	etoh	Matrix	skin	Not Mapped
+P4_A9.mzML 	GATACA	GATACA	P4_A9.mzML 	etoh	Matrix	surface	Not Mapped
+P4_B1.mzML	GATACA	GATACA	P4_B1.mzML	etoh	Matrix	skin	G1
+P4_B10.mzML 	GATACA	GATACA	P4_B10.mzML 	etoh	Matrix	surface	Not Mapped
+P4_B11.mzML 	GATACA	GATACA	P4_B11.mzML 	etoh	Matrix	surface	Not Mapped
+P4_B12.mzML 	GATACA	GATACA	P4_B12.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_B2.mzML	GATACA	GATACA	P4_B2.mzML	etoh	Matrix	skin	G1
+P4_B3.mzML 	GATACA	GATACA	P4_B3.mzML 	etoh	Matrix	skin	Not Mapped
+P4_B4.mzML 	GATACA	GATACA	P4_B4.mzML 	etoh	Matrix	skin	Not Mapped
+P4_B5.mzML	GATACA	GATACA	P4_B5.mzML	not applicable	not applicable	Blank	G1
+P4_B6.mzML 	GATACA	GATACA	P4_B6.mzML 	etoh	Matrix	control blank 	Not Mapped
+P4_B7.mzML 	GATACA	GATACA	P4_B7.mzML 	etoh	Matrix	skin	Not Mapped
+P4_B8.mzML 	GATACA	GATACA	P4_B8.mzML 	etoh	Matrix	skin	Not Mapped
+P4_B9.mzML 	GATACA	GATACA	P4_B9.mzML 	etoh	Matrix	surface	Not Mapped
+P4_C1.mzML	GATACA	GATACA	P4_C1.mzML	etoh	Matrix	skin	G1
+P4_C10.mzML 	GATACA	GATACA	P4_C10.mzML 	etoh	Matrix	surface	Not Mapped
+P4_C11.mzML 	GATACA	GATACA	P4_C11.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_C12.mzML 	GATACA	GATACA	P4_C12.mzML 	etoh	Matrix	surface	Not Mapped
+P4_C2.mzML	GATACA	GATACA	P4_C2.mzML	isopropanol	Matrix	skin	G1
+P4_C3.mzML 	GATACA	GATACA	P4_C3.mzML 	etoh	Matrix	skin	Not Mapped
+P4_C4.mzML 	GATACA	GATACA	P4_C4.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_C5.mzML 	GATACA	GATACA	P4_C5.mzML 	not applicable	Matrix	control blank DNA extraction	Not Mapped
+P4_C6.mzML 	GATACA	GATACA	P4_C6.mzML 	etoh	Matrix	skin	Not Mapped
+P4_C7.mzML 	GATACA	GATACA	P4_C7.mzML 	etoh	Matrix	skin	Not Mapped
+P4_C8.mzML 	GATACA	GATACA	P4_C8.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_C9.mzML 	GATACA	GATACA	P4_C9.mzML 	etoh	Matrix	surface	Not Mapped
+P4_D1.mzML 	GATACA	GATACA	P4_D1.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_D10.mzML 	GATACA	GATACA	P4_D10.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_D11.mzML 	GATACA	GATACA	P4_D11.mzML 	etoh	Matrix	surface	Not Mapped
+P4_D12.mzML 	GATACA	GATACA	P4_D12.mzML 	etoh	Matrix	surface	Not Mapped
+P4_D2.mzML	GATACA	GATACA	P4_D2.mzML	isopropanol	Matrix	skin	G1
+P4_D3.mzML 	GATACA	GATACA	P4_D3.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_D4.mzML 	GATACA	GATACA	P4_D4.mzML 	etoh	Matrix	skin	Not Mapped
+P4_D5.mzML 	GATACA	GATACA	P4_D5.mzML 	etoh	Matrix	skin	Not Mapped
+P4_D6.mzML 	GATACA	GATACA	P4_D6.mzML 	etoh	Matrix	skin	Not Mapped
+P4_D7.mzML 	GATACA	GATACA	P4_D7.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_D8.mzML 	GATACA	GATACA	P4_D8.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_D9.mzML 	GATACA	GATACA	P4_D9.mzML 	isopropanol	Matrix	surface	Not Mapped
+P4_E1.mzML	GATACA	GATACA	P4_E1.mzML	isopropanol	Matrix	skin	G1
+P4_E11.mzML 	GATACA	GATACA	P4_E11.mzML 	isopropanol	Matrix	surface	Not Mapped
+P4_E12.mzML 	GATACA	GATACA	P4_E12.mzML 	not applicable	Matrix	control blank DNA extraction	Not Mapped
+P4_E2.mzML	GATACA	GATACA	P4_E2.mzML	isopropanol	Matrix	skin	G1
+P4_E3.mzML 	GATACA	GATACA	P4_E3.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_E4.mzML 	GATACA	GATACA	P4_E4.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_E5.mzML 	GATACA	GATACA	P4_E5.mzML 	etoh	Matrix	skin	Not Mapped
+P4_E6.mzML 	GATACA	GATACA	P4_E6.mzML 	etoh	Matrix	skin	Not Mapped
+P4_E7.mzML 	GATACA	GATACA	P4_E7.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_E9.mzML 	GATACA	GATACA	P4_E9.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_E10.mzML 	GATACA	GATACA	P4_E10.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_E8.mzML 	GATACA	GATACA	P4_E8.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_F1.mzML	GATACA	GATACA	P4_F1.mzML	isopropanol	Matrix	skin	G1
+P4_F10.mzML 	GATACA	GATACA	P4_F10.mzML 	isopropanol	Matrix	surface	Not Mapped
+P4_F11.mzML 	GATACA	GATACA	P4_F11.mzML 	not applicable	Matrix	control blank DNA extraction	Not Mapped
+P4_F12.mzML 	GATACA	GATACA	P4_F12.mzML 	isopropanol	Matrix	surface	Not Mapped
+P4_F2.mzML 	GATACA	GATACA	P4_F2.mzML 	isopropanol	Matrix	control blank DNA extraction	Not Mapped
+P4_F3.mzML 	GATACA	GATACA	P4_F3.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_F4.mzML 	GATACA	GATACA	P4_F4.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_F5.mzML 	GATACA	GATACA	P4_F5.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_F6.mzML 	GATACA	GATACA	P4_F6.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_F7.mzML 	GATACA	GATACA	P4_F7.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_F8.mzML 	GATACA	GATACA	P4_F8.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_F9.mzML 	GATACA	GATACA	P4_F9.mzML 	isopropanol	Matrix	surface	Not Mapped
+P4_G1.mzML	GATACA	GATACA	P4_G1.mzML	etoh	Matrix	skin	G1
+P4_G10.mzML 	GATACA	GATACA	P4_G10.mzML 	isopropanol	Matrix	surface	Not Mapped
+P4_G11.mzML 	GATACA	GATACA	P4_G11.mzML 	isopropanol	Matrix	surface	Not Mapped
+P4_G12.mzML 	GATACA	GATACA	P4_G12.mzML 	isopropanol	Matrix	surface	Not Mapped
+P4_G2.mzML 	GATACA	GATACA	P4_G2.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_G3.mzML 	GATACA	GATACA	P4_G3.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_G4.mzML 	GATACA	GATACA	P4_G4.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_G5.mzML 	GATACA	GATACA	P4_G5.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_G6.mzML 	GATACA	GATACA	P4_G6.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_G7.mzML 	GATACA	GATACA	P4_G7.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_G8.mzML 	GATACA	GATACA	P4_G8.mzML 	isopropanol	Matrix	control blank DNA extraction	Not Mapped
+P4_G9.mzML 	GATACA	GATACA	P4_G9.mzML 	isopropanol	Matrix	surface	Not Mapped
+P4_H1.mzML	GATACA	GATACA	P4_H1.mzML	etoh	Matrix	control blank DNA extraction	G1
+P4_H10.mzML 	GATACA	GATACA	P4_H10.mzML 	isopropanol	Matrix	surface	Not Mapped
+P4_H11.mzML 	GATACA	GATACA	P4_H11.mzML 	isopropanol	Matrix	surface	Not Mapped
+P4_H12.mzML 	GATACA	GATACA	P4_H12.mzML 	isopropanol	Matrix	surface	Not Mapped
+P4_H2.mzML 	GATACA	GATACA	P4_H2.mzML 	etoh	Matrix	skin	Not Mapped
+P4_H3.mzML 	GATACA	GATACA	P4_H3.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_H4.mzML 	GATACA	GATACA	P4_H4.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_H5.mzML 	GATACA	GATACA	P4_H5.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_H6.mzML 	GATACA	GATACA	P4_H6.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_H7.mzML 	GATACA	GATACA	P4_H7.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_H8.mzML 	GATACA	GATACA	P4_H8.mzML 	isopropanol	Matrix	skin	Not Mapped
+P4_H9.mzML 	GATACA	GATACA	P4_H9.mzML 	not applicable	Matrix	control blank DNA extraction	Not Mapped
+20220810_ACN_2.mzML 	GATACA	GATACA	20220810_ACN_2.mzML 	not applicable	not applicable	Blank	Not Mapped
+20220810_ACN_3.mzML 	GATACA	GATACA	20220810_ACN_3.mzML 	not applicable	not applicable	Blank	Not Mapped
+20220810_ACN_4.mzML 	GATACA	GATACA	20220810_ACN_4.mzML 	not applicable	not applicable	Blank	Not Mapped
+20220810_ACN_1_20220810144611.mzML 	GATACA	GATACA	20220810_ACN_1_20220810144611.mzML 	not applicable	not applicable	Blank	Not Mapped
+20220810_ACN_11.mzML 	GATACA	GATACA	20220810_ACN_11.mzML 	not applicable	not applicable	Blank	Not Mapped
+20220810_ACN_7.mzML 	GATACA	GATACA	20220810_ACN_7.mzML 	not applicable	not applicable	Blank	Not Mapped
+20220810_ACN_5.mzML 	GATACA	GATACA	20220810_ACN_5.mzML 	not applicable	not applicable	Blank	Not Mapped
+20220810_ACN_8.mzML 	GATACA	GATACA	20220810_ACN_8.mzML 	not applicable	not applicable	Blank	Not Mapped
+20220810_ACN_10.mzML 	GATACA	GATACA	20220810_ACN_10.mzML 	not applicable	not applicable	Blank	Not Mapped
+20220810_ACN_6.mzML 	GATACA	GATACA	20220810_ACN_6.mzML 	not applicable	not applicable	Blank	Not Mapped
+20220810_ACN_9.mzML 	GATACA	GATACA	20220810_ACN_9.mzML 	not applicable	not applicable	Blank	Not Mapped
+20220810_ACN_12.mzML 	GATACA	GATACA	20220810_ACN_12.mzML 	not applicable	not applicable	Blank	Not Mapped
+20220810_QC_2.mzML 	GATACA	GATACA	20220810_QC_2.mzML 	not applicable	not applicable	Blank	Not Mapped
+20220810_QC_3.mzML 	GATACA	GATACA	20220810_QC_3.mzML 	not applicable	not applicable	Blank	Not Mapped
+20220810_ACN_13.mzML 	GATACA	GATACA	20220810_ACN_13.mzML 	not applicable	not applicable	Blank	Not Mapped
+P4_F11.mzML	GATACA	GATACA	P4_F11.mzML				G1
+P4_A8.mzML	GATACA	GATACA	P4_A8.mzML				G1
+P4_E3.mzML	GATACA	GATACA	P4_E3.mzML				G1
+P4_F2.mzML	GATACA	GATACA	P4_F2.mzML				G1
+P4_B9.mzML	GATACA	GATACA	P4_B9.mzML				G1
+P4_C5.mzML	GATACA	GATACA	P4_C5.mzML				G1
+P4_F6.mzML	GATACA	GATACA	P4_F6.mzML				G1
+P4_A12.mzML	GATACA	GATACA	P4_A12.mzML				G1
+P4_E7.mzML	GATACA	GATACA	P4_E7.mzML				G1
+P4_B10.mzML	GATACA	GATACA	P4_B10.mzML				G1
+P4_H3.mzML	GATACA	GATACA	P4_H3.mzML				G1
+P4_D3.mzML	GATACA	GATACA	P4_D3.mzML				G1
+P4_D11.mzML	GATACA	GATACA	P4_D11.mzML				G1
+P4_C9.mzML	GATACA	GATACA	P4_C9.mzML				G1
+P4_G2.mzML	GATACA	GATACA	P4_G2.mzML				G1
+P4_H7.mzML	GATACA	GATACA	P4_H7.mzML				G1
+P4_A4.mzML	GATACA	GATACA	P4_A4.mzML				G1
+P4_G6.mzML	GATACA	GATACA	P4_G6.mzML				G1
+P4_D7.mzML	GATACA	GATACA	P4_D7.mzML				G1
+P4_C12.mzML	GATACA	GATACA	P4_C12.mzML				G1
+P4_B11.mzML	GATACA	GATACA	P4_B11.mzML				G1
+P4_H2.mzML	GATACA	GATACA	P4_H2.mzML				G1
+P4_D10.mzML	GATACA	GATACA	P4_D10.mzML				G1
+P4_G3.mzML	GATACA	GATACA	P4_G3.mzML				G1
+P4_C8.mzML	GATACA	GATACA	P4_C8.mzML				G1
+P4_B4.mzML	GATACA	GATACA	P4_B4.mzML				G1
+P4_H6.mzML	GATACA	GATACA	P4_H6.mzML				G1
+P4_E12.mzML	GATACA	GATACA	P4_E12.mzML				G1
+P4_A5.mzML	GATACA	GATACA	P4_A5.mzML				G1
+P4_G7.mzML	GATACA	GATACA	P4_G7.mzML				G1
+P4_D6.mzML	GATACA	GATACA	P4_D6.mzML				G1
+P4_H12.mzML	GATACA	GATACA	P4_H12.mzML				G1
+P4_A9.mzML	GATACA	GATACA	P4_A9.mzML				G1
+P4_F10.mzML	GATACA	GATACA	P4_F10.mzML				G1
+P4_B8.mzML	GATACA	GATACA	P4_B8.mzML				G1
+P4_F3.mzML	GATACA	GATACA	P4_F3.mzML				G1
+P4_G12.mzML	GATACA	GATACA	P4_G12.mzML				G1
+P4_C4.mzML	GATACA	GATACA	P4_C4.mzML				G1
+P4_F7.mzML	GATACA	GATACA	P4_F7.mzML				G1
+P4_E6.mzML	GATACA	GATACA	P4_E6.mzML				G1
+P4_E8.mzML	GATACA	GATACA	P4_E8.mzML				G1
+P4_F9.mzML	GATACA	GATACA	P4_F9.mzML				G1
+P4_D12.mzML	GATACA	GATACA	P4_D12.mzML				G1
+P4_H4.mzML	GATACA	GATACA	P4_H4.mzML				G1
+P4_B6.mzML	GATACA	GATACA	P4_B6.mzML				G1
+P4_A7.mzML	GATACA	GATACA	P4_A7.mzML				G1
+P4_E10.mzML	GATACA	GATACA	P4_E10.mzML				G1
+P4_G5.mzML	GATACA	GATACA	P4_G5.mzML				G1
+P4_H10.mzML	GATACA	GATACA	P4_H10.mzML				G1
+P4_D4.mzML	GATACA	GATACA	P4_D4.mzML				G1
+P4_C11.mzML	GATACA	GATACA	P4_C11.mzML				G1
+P4_D8.mzML	GATACA	GATACA	P4_D8.mzML				G1
+P4_G9.mzML	GATACA	GATACA	P4_G9.mzML				G1
+P4_F12.mzML	GATACA	GATACA	P4_F12.mzML				G1
+P4_H8.mzML	GATACA	GATACA	P4_H8.mzML				G1
+P4_C6.mzML	GATACA	GATACA	P4_C6.mzML				G1
+P4_G10.mzML	GATACA	GATACA	P4_G10.mzML				G1
+P4_A11.mzML	GATACA	GATACA	P4_A11.mzML				G1
+P4_F5.mzML	GATACA	GATACA	P4_F5.mzML				G1
+P4_E4.mzML	GATACA	GATACA	P4_E4.mzML				G1
+P4_D9.mzML	GATACA	GATACA	P4_D9.mzML				G1
+P4_G8.mzML	GATACA	GATACA	P4_G8.mzML				G1
+P4_C3.mzML	GATACA	GATACA	P4_C3.mzML				G1
+P4_H9.mzML	GATACA	GATACA	P4_H9.mzML				G1
+P4_G11.mzML	GATACA	GATACA	P4_G11.mzML				G1
+P4_C7.mzML	GATACA	GATACA	P4_C7.mzML				G1
+P4_A10.mzML	GATACA	GATACA	P4_A10.mzML				G1
+P4_F4.mzML	GATACA	GATACA	P4_F4.mzML				G1
+P4_E5.mzML	GATACA	GATACA	P4_E5.mzML				G1
+P4_E9.mzML	GATACA	GATACA	P4_E9.mzML				G1
+P4_B3.mzML	GATACA	GATACA	P4_B3.mzML				G1
+P4_B12.mzML	GATACA	GATACA	P4_B12.mzML				G1
+P4_F8.mzML	GATACA	GATACA	P4_F8.mzML				G1
+P4_D1.mzML	GATACA	GATACA	P4_D1.mzML				G1
+P4_H5.mzML	GATACA	GATACA	P4_H5.mzML				G1
+P4_B7.mzML	GATACA	GATACA	P4_B7.mzML				G1
+P4_E11.mzML	GATACA	GATACA	P4_E11.mzML				G1
+P4_G4.mzML	GATACA	GATACA	P4_G4.mzML				G1
+P4_H11.mzML	GATACA	GATACA	P4_H11.mzML				G1
+P4_D5.mzML	GATACA	GATACA	P4_D5.mzML				G1
+P4_C10.mzML	GATACA	GATACA	P4_C10.mzML				G1
+20220810_ACN_2.mzML	GATACA	GATACA	20220810_ACN_2.mzML				G2
+20220810_ACN_6.mzML	GATACA	GATACA	20220810_ACN_6.mzML				G2
+20220810_ACN_13.mzML	GATACA	GATACA	20220810_ACN_13.mzML				G2
+20220810_ACN_3.mzML	GATACA	GATACA	20220810_ACN_3.mzML				G2
+20220810_ACN_7.mzML	GATACA	GATACA	20220810_ACN_7.mzML				G2
+20220810_ACN_12.mzML	GATACA	GATACA	20220810_ACN_12.mzML				G2
+20220810_ACN_5.mzML	GATACA	GATACA	20220810_ACN_5.mzML				G2
+20220810_ACN_10.mzML	GATACA	GATACA	20220810_ACN_10.mzML				G2
+20220810_ACN_9.mzML	GATACA	GATACA	20220810_ACN_9.mzML				G2
+20220810_QC_2.mzML	GATACA	GATACA	20220810_QC_2.mzML				G2
+20220810_QC_3.mzML	GATACA	GATACA	20220810_QC_3.mzML				G2
+20220810_ACN_8.mzML	GATACA	GATACA	20220810_ACN_8.mzML				G2
+20220810_ACN_1_20220810144611.mzML	GATACA	GATACA	20220810_ACN_1_20220810144611.mzML				G2
+20220810_ACN_4.mzML	GATACA	GATACA	20220810_ACN_4.mzML				G2
+20220810_ACN_11.mzML	GATACA	GATACA	20220810_ACN_11.mzML				G2
